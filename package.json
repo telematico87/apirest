@@ -19,12 +19,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FSojitra/Node.js-Register-Login-App.git"
+    "url": "git+https://github.com/telematico87/apirest.git"
   },
   "author": "foram sojitra",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/FSojitra/Node.js-Register-Login-App/issues"
-  },
-  "homepage": "https://github.com/FSojitra/Node.js-Register-Login-App#readme"
+  "license": "ISC"
+ 
+
 }
